@@ -1,5 +1,4 @@
-<p align= "center"><img width=70% src="https://github.com/himanshusharma89/relic_bazaar/blob/master/images/promo.png"></p>
- 
+
 <div align="center">
 
 ![Forks](https://img.shields.io/github/forks/himanshusharma89/relic_bazaar)
@@ -49,7 +48,7 @@ We propose an app with the vision to put back the traditional market of vintage 
 - Matic API
 - TensorFlow + TensorFlow Lite
 
-<p align= "center"><img width=35% src="images/hack20.png"></p>
+
 
 <h2 align= "left"><b>Contributing Guidelines</b></h2>
 
@@ -119,32 +118,7 @@ click on `Compare and Pull Request`
 		
 <img src="https://user-images.githubusercontent.com/41269164/70219836-8d6ea680-176b-11ea-81d5-549093bf0954.png" width=600>
 
-**Congratulations!**  :boom: Sit and relax, you've made your contribution to [Relic Bazar](https://github.com/himanshusharma89/relic_bazaar) project.
 
-<h2 align= "left"><b>Code of Conduct</b></h2>
-
-We follow certain guidelines in order to maintain this repository. Please find our [code of conduct](https://github.com/himanshusharma89/relic_bazaar/blob/master/CODE_OF_CONDUCT.md) and read it carefully.
-
-<h2 align= "left"><b>License</b></h2>
-
-Distributed under the CC0-1.0 License. See [LICENSE](https://github.com/himanshusharma89/relic_bazaar/blob/master/LICENSE) for more information.
-
-<h1 align= "left"><b>The Geeks behind RELIC_BAZAAR 🤓</b></h1>
-
-|<img src="https://avatars2.githubusercontent.com/u/44980497?v=4">|<img src="https://avatars2.githubusercontent.com/u/46641503?v=4">|<img src="https://avatars3.githubusercontent.com/u/54989142?v=4">|<img src="https://avatars3.githubusercontent.com/u/40017559?v=4">|
-|----------------------------|--------|----------------------------|--------|
-|<p align="center">[Himanshu Sharma](https://github.com/himanshusharma89)</p>|<p align="center">[Smaranjit Ghose](https://github.com/smaranjitghose)</p>|<p align="center">[Ishan Sharma](https://github.com/ishandeveloper)</p>|<p align="center">[Anush Bhatia](https://github.com/anushbhatia)</p>|
- 
-## RELIC BAZAAR is a part of these open source programs:
-
-<p align="center">
- <a>
- <img  width="70%" height="30%" src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png">
-
- 
-</p>
-
-</br>
 
 
 
